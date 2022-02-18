@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pegaxy-stat/static/css/main.ccf5fbae.css",
+    "main.js": "/pegaxy-stat/static/js/main.1db27b66.js",
+    "static/js/787.0b209c8e.chunk.js": "/pegaxy-stat/static/js/787.0b209c8e.chunk.js",
+    "index.html": "/pegaxy-stat/index.html",
+    "main.ccf5fbae.css.map": "/pegaxy-stat/static/css/main.ccf5fbae.css.map",
+    "main.1db27b66.js.map": "/pegaxy-stat/static/js/main.1db27b66.js.map",
+    "787.0b209c8e.chunk.js.map": "/pegaxy-stat/static/js/787.0b209c8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccf5fbae.css",
+    "static/js/main.1db27b66.js"
+  ]
+}
